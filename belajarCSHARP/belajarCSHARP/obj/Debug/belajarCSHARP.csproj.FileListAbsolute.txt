@@ -1,0 +1,6 @@
+D:\Document PAL\vs\belajarCSHARP\belajarCSHARP\bin\Debug\belajarCSHARP.exe.config
+D:\Document PAL\vs\belajarCSHARP\belajarCSHARP\bin\Debug\belajarCSHARP.exe
+D:\Document PAL\vs\belajarCSHARP\belajarCSHARP\bin\Debug\belajarCSHARP.pdb
+D:\Document PAL\vs\belajarCSHARP\belajarCSHARP\obj\Debug\belajarCSHARP.csprojResolveAssemblyReference.cache
+D:\Document PAL\vs\belajarCSHARP\belajarCSHARP\obj\Debug\belajarCSHARP.exe
+D:\Document PAL\vs\belajarCSHARP\belajarCSHARP\obj\Debug\belajarCSHARP.pdb
